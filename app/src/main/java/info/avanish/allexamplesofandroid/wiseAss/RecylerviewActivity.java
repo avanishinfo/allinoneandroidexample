@@ -1,0 +1,15 @@
+package info.avanish.allexamplesofandroid.wiseAss;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import info.avanish.allexamplesofandroid.R;
+
+public class RecylerviewActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_recylerview);
+    }
+
+}

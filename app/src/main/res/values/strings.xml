@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AllExamplesOfAndroid</string>
+    <string name="constrain_button">Button</string>
+
+    <string-array name="beer_color">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string-array name="top_level">
+        <item>Drinks</item>
+        <item>Foods</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <string name="create_order">CreateOrder</string>
+    <string name="action_share">Share</string>
+</resources>
